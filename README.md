@@ -4,6 +4,7 @@
 ## 🛸 Overview
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects!😎
 
+### 😎 Get to know some of my dev facts
 <details>
   <summary><strong>Get to know some of my dev facts</strong></summary>
   
