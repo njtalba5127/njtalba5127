@@ -4,6 +4,17 @@
 ## 🛸 Overview
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects!😎
 
+### A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 ### Current Favourite Programming Language: Python🐍
 ### 💻 Dev-skill list:
 ```
