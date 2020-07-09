@@ -5,16 +5,12 @@
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects!😎
 
 <details>
-  <summary><h1>Get to know some of my dev facts</h1></summary>
+  <summary><strong>Get to know some of my dev facts</strong></summary>
   
   ### Current Favourite Programming Language: Python🐍
   ### My Ranking for dev languages (based on my current skillset and preference):
   1. Python
-     * Django
-     * Flask
   2. Javascript (Node.Js)
-     * React
-     * Angular
   2. PHP
   2. Ruby on Rails
      
