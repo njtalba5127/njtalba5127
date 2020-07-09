@@ -8,18 +8,15 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <summary><strong>😎 Get to know some of my personal dev facts</strong></summary>
   
   ### 💻 My Dev Language Preference:
+    <h3>Current Favourite Programming Language: Python🐍</h3>
   
-  ```
-  Current Favourite Programming Language: Python🐍
-  ```
   
-  ```
-  My Ranking for dev languages (based on my current skillset and preference):
-  1. Python
-  2. Javascript (Node.Js)
-  3. PHP
-  4. Ruby on Rails
-  ```
+    <h3>My Ranking for dev languages (based on my current skillset and preference):<h3>
+    1. Python
+    2. Javascript (Node.Js)
+    3. PHP
+    4. Ruby on Rails
+  
   
   ### 💻 My Dev skill-set list:
   ```
@@ -35,9 +32,9 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <details>
     <summary><strong>🖥️ Social Media Accounts [LinkedIn / Facebook / Instagram]</strong></summary>
 
-    1. [linkedin.com/in/whoisnelly](https://www.linkedin.com/in/whoisnelly) - **LinkedIn** 
-    2. [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) - **Facebook** 
-    3. [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/) - **Instagram**
+   1. [linkedin.com/in/whoisnelly](https://www.linkedin.com/in/whoisnelly) - **LinkedIn** 
+   2. [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) - **Facebook** 
+   3. [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/) - **Instagram**
 
   </details>
 </h3>
@@ -46,8 +43,8 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <details>
     <summary><strong>📮 Email: [Yahoo Mail / Google Mail] </strong></summary>
 
-    1. [nelsonalbajr@yahoo.com](nelsonalbajr@yahoo.com) - **Yahoo Mail**
-    2. [nb3.321132@gmail.com](nb3.321132@gmail.com) - **Google Mail** 
+   1. [nelsonalbajr@yahoo.com](nelsonalbajr@yahoo.com) - **Yahoo Mail**
+   2. [nb3.321132@gmail.com](nb3.321132@gmail.com) - **Google Mail** 
 
   </details>
 </h3>
