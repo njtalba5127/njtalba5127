@@ -1,16 +1,12 @@
-### Hi there 👋
+### 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 🇵🇭🇨🇳🇪🇸
 
-<!--
-**nellyXinwei/nellyXinwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📷 Travel • Music • Design • Code • Life
+- 🗺 XSCerus20 • IBC9 • Goin'College
+- 📮 nb3.321132@gmail.com
+- 💙 📽✈⛩🌶🍉💧🎨🎹💻🦑👻🛸
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a class="fa fa-linkedin" href="https://www.linkedin.com/in/whoisnelly/">LinkedIn</a>
+<a class="fa fa-facebook" href="https://www.facebook.com/nelson.albajr">Facebook</a>
+<a class="fa fa-instagram" href="https://www.instagram.com/who_is_nelly/">Instagram</a>
+<a class="fa fa-github-square" href="https://github.com/nellyXinwei">GitHub</a>
+<a href="#">Incoming Personal Website</a>
