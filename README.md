@@ -26,7 +26,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   
   ### What I want to try out in the future: 
   ```
-  Learn how to create native mobile apps using native frameworks like React Native 🤩📱
+  Create native mobile apps using native frameworks like React Native 🤩📱
   ``` 
 </details>
 </h4>
