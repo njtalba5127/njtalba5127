@@ -1,7 +1,6 @@
 # Hello! Welcome to my Github Page 🖥️!
-My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student who's having fun to learn about code, and working on different cool web applications and projects!😎
-
 ## 🛸 Overview
+My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student who's having fun to learn about code, and working on different cool web applications and projects!😎
 ### 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 🇵🇭🇨🇳🇪🇸
 ```
 Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
