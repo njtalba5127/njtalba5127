@@ -4,7 +4,7 @@
 ## 🛸 Overview
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects!😎
 
-<h3>
+<h4>
 <details>
   <summary><strong>😎 Get to know some of my personal dev facts</strong></summary>
   
@@ -24,12 +24,12 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
   ``` 
 </details>
-</h3>
+</h4>
 
 ## 🪐 Contact and learn more about me through:
 ### 🛸  My Personal Website : [Coming Soon](#)
 
-<h3>
+<h4>
   <details>
     <summary><strong>🖥️ Social Media Accounts [LinkedIn / Facebook / Instagram]</strong></summary>
 
@@ -38,9 +38,9 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
    3. [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/) - **Instagram**
 
   </details>
-</h3>
+</h4>
  
-<h3>
+<h4>
   <details>
     <summary><strong>📮 Email: [Yahoo Mail / Google Mail] </strong></summary>
 
@@ -48,4 +48,4 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
    2. [nb3.321132@gmail.com](nb3.321132@gmail.com) - **Google Mail** 
 
   </details>
-</h3>
+</h4>
