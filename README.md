@@ -30,6 +30,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 ## 🪐 Contact and learn more about me through:
 ### 🛸 whoisnelly.xyz - [Coming Soon](#) - My Personal Website
+<h3>
 <details>
   <summary><strong>🖥️ Social Media Accounts [LinkedIn / Facebook / Instagram]</strong></summary>
  
@@ -38,6 +39,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   3. [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/) - **Instagram**
   
 </details>
+</h3>
  
 <details>
   <summary><strong>📮 Email: [Yahoo Mail / Google Mail] </strong></summary>
