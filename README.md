@@ -6,7 +6,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 
 ### Connect and Learn more about me through:
 * LinkedIn - [linkedin.com/in/whoisnelly/](https://www.linkedin.com/in/whoisnelly/)
-* Instagram - [@who_is_nelly](https://www.instagram.com/who_is_nelly/)
+* Instagram - [instagram.com/who_is_nelly/ (@who_is_nelly)](https://www.instagram.com/who_is_nelly/)
 * Facebook - [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr)
 * Github - [github.com/nellyXinwei](https://github.com/nellyXinwei)
 * Website - [Coming Soon](#)
