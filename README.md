@@ -1,11 +1,8 @@
 # Hello! Welcome to nelly's Github Page 🖥️!
+𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 🇵🇭🇨🇳🇪🇸 / Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸 / 📢 Call me Nelly! | 🎓 XSCerus20•IBC9
+
 ## 🛸 Overview
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects!😎
-```
-𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 🇵🇭🇨🇳🇪🇸
-Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
-📢 Call me Nelly! | 🎓 XSCerus20•IBC9
-```
 
 ### Current Favourite Programming Language: Python🐍
 ### 💻 Dev-skill list:
