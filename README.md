@@ -8,7 +8,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 📢 Call me Nelly! | 🎓 XSCerus20•IBC9
 ```
 
-## Connect and Learn more about me through 🖥️:
+## 🪐 Contact and learn more about me through:
 ### ⛩ Website
 * **Website** - [Coming Soon](#)
 
