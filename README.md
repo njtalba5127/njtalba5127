@@ -8,8 +8,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 ```
 
 ## 🪐 Contact and learn more about me through:
-### ⛩ My Personal Website
-**Website** - [Coming Soon](#)
+### ⛩ My Personal Website - [Coming Soon](#)
 
 ### 🖥️ Social Media Accounts
 **LinkedIn** - [linkedin.com/in/whoisnelly/](https://www.linkedin.com/in/whoisnelly) / **Facebook** - [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) / **Instagram** - [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/)
