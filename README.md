@@ -7,6 +7,15 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 📢 Call me Nelly! | 🎓 XSCerus20•IBC9
 ```
 
+### 💻 Skills
+```
+Python, PHP, Node.Js, Ruby, 
+Django, React.js, Angular.js, Express.js, Laravel, Ruby on Rails
+Cactus, Gatsby, Hugo
+Google Cloud Platform, Amazon Web Services, Heroku, Netlify
+HTML, CSS, Bootstrap, Sass, Javascript, JQuery, 
+``` 
+
 ## 🪐 Contact and learn more about me through:
 ### ⛩ My Personal Website - [Coming Soon](#)
 
