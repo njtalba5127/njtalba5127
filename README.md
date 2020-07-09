@@ -32,10 +32,11 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <h4>
   <details>
     <summary><strong>🖥️ Social Media Accounts [LinkedIn / Facebook / Instagram]</strong></summary>
-
-   1. [linkedin.com/in/whoisnelly](https://www.linkedin.com/in/whoisnelly) - **LinkedIn** 
-   2. [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) - **Facebook** 
-   3. [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/) - **Instagram**
+    
+   ### 🖥️ Social Media Accounts
+   > 1. [linkedin.com/in/whoisnelly](https://www.linkedin.com/in/whoisnelly) - **LinkedIn** 
+   > 2. [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) - **Facebook** 
+   > 3. [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/) - **Instagram**
 
   </details>
 </h4>
