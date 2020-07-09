@@ -23,6 +23,11 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   ```
   Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
   ``` 
+  
+  ### What I want to try out in the future: 
+  ```
+  Learn how to create native mobile apps using native frameworks like React Native 🤩📱
+  ``` 
 </details>
 </h4>
 
