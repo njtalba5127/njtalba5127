@@ -12,7 +12,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <summary><strong>😎 Get to know some of my personal dev facts</strong></summary>
 
   ### 💻 My Dev Language Preference:
-  ### Current Favourite Programming Language and Web Framework: Python🐍, Django x React.js
+  ### Current Favourite Programming Language and Web Framework: Python🐍, Django🦄 X React.js⚛️
 
   > My Ranking for dev languages (based on my current skillset and preference):
   > 1. Python
