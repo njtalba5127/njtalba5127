@@ -7,7 +7,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 📢 Call me Nelly! | 🎓 XSCerus20•IBC9
 ```
 
-**Current Favourite Programming Language: Python🐍**
+### Current Favourite Programming Language: Python🐍
 ### 💻 Dev-skill list:
 ```
 Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
