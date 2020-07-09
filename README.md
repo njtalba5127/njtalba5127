@@ -7,14 +7,14 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 📢 Call me Nelly! | 🎓 XSCerus20•IBC9
 ```
 
-### 💻 Skills
 **Current Favourite Programming Language: Python🐍**
+### 💻 Dev-skill list:
 ```
 Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
 ``` 
 
 ## 🪐 Contact and learn more about me through:
-### ⛩ My Personal Website: whoisnelly.xyz - [Coming Soon](#)
+### 🛸 My Personal Website: whoisnelly.xyz - [Coming Soon](#)
 
 ### 🖥️ Social Media Accounts: [LinkedIn](https://www.linkedin.com/in/whoisnelly) / [Facebook](https://www.facebook.com/nelson.albajr) / [Instagram](https://www.instagram.com/who_is_nelly/)
 
