@@ -14,10 +14,9 @@ Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Lar
 ``` 
 
 ## 🪐 Contact and learn more about me through:
-#### ⛩ My Personal Website - [Coming Soon](#)
+#### ⛩ My Personal Website: whoisnelly.xyz - [Coming Soon](#)
 
-#### 🖥️ Social Media Accounts
-**LinkedIn** - [linkedin.com/in/whoisnelly/](https://www.linkedin.com/in/whoisnelly) / **Facebook** - [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) / **Instagram** - [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/)
+#### 🖥️ Social Media Accounts: **LinkedIn** - [linkedin.com/in/whoisnelly/](https://www.linkedin.com/in/whoisnelly) / **Facebook** - [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) / **Instagram** - [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/)
 
 #### 📮 Email
 **Yahoo Mail** - [nelsonalbajr@yahoo.com](nelsonalbajr@yahoo.com) / **Gmail** - [nb3.321132@gmail.com](nb3.321132@gmail.com)
