@@ -6,7 +6,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 ### 😎 Get to know some of my dev facts
 <details>
-  <summary><strong>Get to know some of my dev facts</strong></summary>
+  #### 💻 My Dev Language Preference:
   
   ```
   Current Favourite Programming Language: Python🐍
@@ -20,7 +20,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   4. Ruby on Rails
   ```
   
-  ### 💻 My Dev skill-set list:
+  #### 💻 My Dev skill-set list:
   ```
   Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
   ``` 
