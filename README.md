@@ -9,7 +9,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 ```
 
 ## 🪐 Contact and learn more about me through:
-### ⛩ Website
+### ⛩ My Personal Website
 * **Website** - [Coming Soon](#)
 
 ### 🖥️ Social Media Accounts
