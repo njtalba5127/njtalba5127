@@ -8,7 +8,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 ```
 
 ### 💻 Skills
-**Favourite Programming Language: Python🐍**
+**Current Favourite Programming Language: Python🐍**
 ```
 Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
 ``` 
