@@ -4,21 +4,24 @@
 ## 🛸 Overview
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects!😎
 
-### Dev Facts
 <details>
-  <summary><strong>Dev Facts</strong></summary>
+  <summary><strong>Get to know some of my dev facts</strong></summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  ### Current Favourite Programming Language: Python🐍
+  ### My Ranking for dev languages (based on my current skillset and preference):
+  1. Python
+     * Django
+     * Flask
+  2. Javascript (Node.Js)
+     * React
+     * Angular
+  2. PHP
+  2. Ruby on Rails
      
-### Current Favourite Programming Language: Python🐍
-### 💻 Dev-skill list:
-```
-Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
-``` 
+  ### 💻 My Dev skill-set list:
+  ```
+  Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ... 
+  ``` 
 </details>
 
 
