@@ -14,7 +14,7 @@ Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 
 ### 🖥️ Social Media Accounts
 **LinkedIn** - [linkedin.com/in/whoisnelly/](https://www.linkedin.com/in/whoisnelly/) | **Github** - [github.com/nellyXinwei](https://github.com/nellyXinwei)<br/>
-**Facebook** - [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) | **Instagram** - [instagram.com/who_is_nelly/ (@who_is_nelly)](https://www.instagram.com/who_is_nelly/)
+**Facebook** - [facebook.com/nelson.albajr](https://www.facebook.com/nelson.albajr) | **Instagram** - [instagram.com/who_is_nelly](https://www.instagram.com/who_is_nelly/)
 
 ### 📮 Email
 **Yahoo Mail** - [nelsonalbajr@yahoo.com](nelsonalbajr@yahoo.com) | **Gmail** - [nb3.321132@gmail.com](nb3.321132@gmail.com)
