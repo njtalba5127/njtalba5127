@@ -42,7 +42,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <details>
   <summary><strong>📮 Email: [Yahoo Mail / Google Mail] </strong></summary>
   
-  1. **Yahoo Mail** - [nelsonalbajr@yahoo.com](nelsonalbajr@yahoo.com) 
-  2. **Google Mail** - [nb3.321132@gmail.com](nb3.321132@gmail.com) 
+  1. [nelsonalbajr@yahoo.com](nelsonalbajr@yahoo.com) - **Yahoo Mail**
+  2. [nb3.321132@gmail.com](nb3.321132@gmail.com) - **Google Mail** 
   
 </details>
