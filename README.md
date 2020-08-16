@@ -11,9 +11,9 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <details>
   <summary><strong>😎 Get to know some of my personal dev facts</strong></summary>
 
-  ### 💻 My Dev skill-set list:
+  ### 💻 Languages:
   ```
-  Python, PHP, Node.Js, Ruby, Django, Flask, React.js, Angular.js, Express.js, Laravel, Ruby on Rails, Cactus, Gatsby, Hugo, Google Cloud Platform, Amazon Web Services, Heroku, Netlify, HTML, CSS, Bootstrap, Sass, Javascript, JQuery ...
+  Python, Javascript, PHP, Ruby
   ```
    ### 😎 Current Focus
   ```
