@@ -17,7 +17,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   ```
    ### 😎 Current Focus
   ```
-  Personal Website and creating more fun web and mobile app projects!
+  Personal Website and creating more fun web & mobile app projects!
   ```
 
   ### 😎 What I want to try out in the future:
