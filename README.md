@@ -42,6 +42,9 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   </details>
 </h4>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/whoisnelly)  
+
 <h4>
   <details>
     <summary><strong>📮 Email: [Yahoo Mail / Google Mail] </strong></summary>
