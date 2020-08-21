@@ -1,5 +1,3 @@
-# Hello! Welcome to my Github Page 🪐!
-
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
 ## 🛸 Overview
