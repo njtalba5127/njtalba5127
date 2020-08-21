@@ -32,7 +32,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 ### 🖥️ Social Media Accounts:
 [![Github Badge](https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/who_is_nelly/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nb3.321132@gmail.com)](mailto:nb3.321132@gmail.com) 
-[![Gmail Badge](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white&link=mailto:nb3.321132@gmail.com)](mailto:nb3.321132@gmail.com) 
+
 
 
 
