@@ -20,9 +20,19 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 
 ### 😎 Github Stats:
-  <div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
 </div>
+
+<div>
+<a href="https://github.com/nellyXinwei/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nellyXinwei&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/nellyXinwei/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nellyXinwei&repo=convoychat" />
+</a>
+</div>
+
 
 <h4>
 <details>
