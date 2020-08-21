@@ -12,9 +12,11 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <summary><strong>😎 Get to know some of my personal dev facts</strong></summary>
 
   ### 💻 Languages:
-  ```
-  Python, Javascript, PHP, Ruby
-  ```
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+
    ### 😎 Current Focus
   ```
   Personal Website and creating more fun web & mobile app projects!
