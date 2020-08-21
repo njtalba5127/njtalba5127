@@ -39,9 +39,3 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   ```
 </details>
 </h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nellyxinwei" alt="nellyxinwei" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellyxinwei&layout=compact&hide=html" alt="nellyxinwei" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nellyxinwei&show_icons=true" alt="nellyxinwei" /></p>
