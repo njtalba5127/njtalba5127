@@ -41,7 +41,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
   </details>
 </h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nellyXinwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nellyXinwei)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-navy?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-circle&logo=Instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/who_is_nelly/)  
