@@ -33,4 +33,4 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
  [![Yahoo Badge](https://img.shields.io/badge/yahoo-%239146FF.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nelsonalbajr@yahoo.com)](mailto:nelsonalbajr@yahoo.com) [![Gmail Badge](https://img.shields.io/badge/gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nb3.321132@gmail.com)](mailto:nb3.321132@gmail.com)
  
 <img align="left" alt="nellyXinwei's Github Stats" src="https://github-readme-stats.nellyxinwei.vercel.app
-/api?username=anuraghazra&show_icons=true&hide_border=true"/>
+/api?username=nellyXinwei&show_icons=true&hide_border=true"/>
