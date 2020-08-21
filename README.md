@@ -26,6 +26,8 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 </details>
 </h4>
 
+<img align="left" alt="nellyXinwei's Github Stats" src="https://github-readme-stats.nellyxinwei.vercel.app/api?username=nellyXinwei"/>
+
 ## 🪐 Contact and learn more about me through:
 ### 🛸  My Personal Website : [Coming Soon](#)
 
