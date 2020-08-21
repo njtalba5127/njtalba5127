@@ -1,5 +1,5 @@
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG.gif" width="100%"/>
-<!--img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>-->
+<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
 ### 🛸  About Me
 
