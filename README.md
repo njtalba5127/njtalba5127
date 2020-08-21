@@ -43,7 +43,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 </h4>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/who_is_nelly/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/who_is_nelly/)  
 
 
 <h4>
