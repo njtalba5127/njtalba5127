@@ -25,7 +25,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 </div>
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nellyXinwei)](https://github.com/nellyXinwei/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellyXinwei"  alt="nellyXinwei's Top Languages"/>
 </div>
 
 
