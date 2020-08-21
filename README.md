@@ -25,12 +25,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 </div>
 
 <div>
-<a href="https://github.com/nellyXinwei/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nellyXinwei&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/nellyXinwei/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nellyXinwei&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nellyXinwei)](https://github.com/nellyXinwei/github-readme-stats)
 </div>
 
 
