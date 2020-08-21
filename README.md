@@ -4,7 +4,7 @@
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
-### 🛸  About Me
+## 🛸  About Me
 
 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 🇵🇭🇨🇳🇪🇸 / Travel⛩ • Music🎹 • Design🎨 • Code💻 • Life🛸
 
@@ -14,7 +14,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 [![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/nellyxinwei/) 
 
-### 💻 Languages:
+## 💻 Languages:
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 
 ### 😎 Github Stats:
