@@ -48,7 +48,8 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/dynamic/yaml" />
         </a>
-
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 
 
 <h4>
