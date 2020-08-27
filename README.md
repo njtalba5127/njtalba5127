@@ -1,4 +1,4 @@
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG.gif" width="100%"/>
+<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG2.gif" width="100%"/>
 
 <h1 align="center">
   Hi I'm nellyXinwei 👋
