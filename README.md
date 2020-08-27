@@ -1,6 +1,10 @@
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG.gif" width="100%"/>
 
-<h1 align="center">Hi I'm nellyXinwei 👋</h1>
+<h1 align="center">
+  Hi I'm nellyXinwei 👋
+  <img src="https://media3.giphy.com/media/2Wf4qYgMmou4zjg9qX/giphy.gif" />
+
+</h1>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
@@ -14,7 +18,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
   <img src="https://img.shields.io/badge/🪐Personal%20Website-Coming%20Soon%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 
-[![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/nellyxinwei/) 
+[![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/whoisnelly)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/who_is_nelly/)](https://www.instagram.com/nellyxinwei/)
 
 <hr/>
 
