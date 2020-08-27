@@ -1,8 +1,8 @@
+  <img src="https://media3.giphy.com/media/2Wf4qYgMmou4zjg9qX/giphy.gif" style="position:absolute; width: 100px; top:10px"/>
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG.gif" width="100%"/>
 
 <h1 align="center">
   Hi I'm nellyXinwei 👋
-  <img src="https://media3.giphy.com/media/2Wf4qYgMmou4zjg9qX/giphy.gif" style="position:absolute; width: 100px; top:10px"/>
 
 </h1>
 
