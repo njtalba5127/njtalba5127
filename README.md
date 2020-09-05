@@ -28,20 +28,3 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
 </div>
-
-
-<h4>
-<details>
-  <summary><strong>😎 Get to know some of my personal dev facts</strong></summary>
-
-   ### 😎 Current Focus
-  ```
-  Personal Website and creating more fun web & mobile app projects!
-  ```
-
-  ### 😎 What I want to try out in the future:
-  ```
-  Create more mobile apps (native/hybrid).
-  ```
-</details>
-</h4>
