@@ -1,7 +1,6 @@
-<h3>Hi I'm nellyXinwei 👋
-<span align="right">
+<h3>Hi I'm nellyXinwei 👋</h3>
+<h3 align="right">
 Music • Code • Design | 🎹💻🎨
-</span>
 </h3>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
