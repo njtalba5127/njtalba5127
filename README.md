@@ -1,5 +1,5 @@
-<p><span style="font-size:30px">Hi I'm nellyXinwei 👋 </span>
-| Music🎹 • Code💻 • Design🎨</p>
+<h1>Hi I'm nellyXinwei 👋
+| Music🎹 • Code💻 • Design🎨</h1>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
 <hr/>
