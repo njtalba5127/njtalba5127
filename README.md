@@ -1,4 +1,4 @@
-<p><span font-size="30px">Hi I'm nellyXinwei 👋 </span>
+<p><span style="font-size:30px">Hi I'm nellyXinwei 👋 </span>
 | Music🎹 • Code💻 • Design🎨</p>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
