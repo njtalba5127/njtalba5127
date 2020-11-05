@@ -1,7 +1,7 @@
 <h1 float="left" >Nelly---@nellyXinwei</h1>
 <p>
-Hello Call me nelly 👋!<br/>
-Music • Code • Design | 🎹💻🎨
+みなさん、こんにちは、私はnellyです! |  Hallo! I'm nelly 👋! ---|---
+Music • Code • Design | 🎹💻🎨 ---|---
 </p>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
