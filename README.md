@@ -1,9 +1,7 @@
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
 
-<h1 align="center">
-  Hi I'm nellyXinwei 👋
-
-</h1>
+<h1 align="center">Hi I'm nellyXinwei 👋</h1>
+<p align="center">Music🎹 • Code💻 • Design🎨</p>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
