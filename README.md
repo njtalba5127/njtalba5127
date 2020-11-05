@@ -1,5 +1,6 @@
-<h3>Hi I'm nellyXinwei 👋</h3>
-<h3 align="right">
+<h1 float="left" >Nelly---@nellyXinwei</h1>
+<h3>
+Hello Call me nelly 👋!<br/>
 Music • Code • Design | 🎹💻🎨
 </h3>
 
