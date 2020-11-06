@@ -1,10 +1,10 @@
 <h1 float="left" >nellyXinwei 🛸</h1>
-
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
 <p float="right" >
 みなさん、こんにちは、私はnellyです! |  Hallo! I'm nelly 👋! |
 Music • Code • Design | 🎹💻🎨
 </p>
+
+<img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
 <hr/>
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
