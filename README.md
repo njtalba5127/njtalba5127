@@ -1,10 +1,12 @@
-<div>
-<span align="left" >nellyXinwei 🛸</span>
-<span align="right" >Music • Code • Design | 🎹💻🎨</span>
-</div>
+
+  <span align="left" >nellyXinwei 🛸</span>
+  <span align="right" >Music • Code • Design | 🎹💻🎨</span>
+
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
+
 <hr/>
+
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
 ### 🛸  About Me
