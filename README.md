@@ -1,8 +1,5 @@
-<h1 float="left" >nellyXinwei 🛸</h1>
-<p float="right" >
-みなさん、こんにちは、私はnellyです! |  Hallo! I'm nelly 👋! |
-Music • Code • Design | 🎹💻🎨
-</p>
+<h1 align="left" >nellyXinwei 🛸</h1>
+<p align="right" >Music • Code • Design | 🎹💻🎨</p>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
 <hr/>
