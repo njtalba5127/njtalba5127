@@ -1,6 +1,3 @@
-
-<h1 align="left" >nellyXinwei 🛸</h1>
-
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
 
 <hr/>
