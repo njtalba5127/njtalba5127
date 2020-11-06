@@ -1,5 +1,6 @@
 
-<h1 align="left" >nellyXinwei 🛸<span align="right" >Music • Code • Design | 🎹💻🎨</span></h1>
+<h1 align="left" >nellyXinwei 🛸</h1>
+<span align="right" >Music • Code • Design | 🎹💻🎨</span>
 
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
