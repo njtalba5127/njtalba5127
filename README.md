@@ -1,6 +1,6 @@
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG3.gif" width="100%"/>
 
-# NELLYXINWEI 🛸 -- // -- Music -- Code -- Design -- // -- 🎹💻🎨
+# NELLYXINWEI 🛸 -- // - Music - Code - Design - // -- 🎹💻🎨
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
