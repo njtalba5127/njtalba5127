@@ -1,6 +1,6 @@
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG3.gif" width="100%"/>
 
-<hr/>
+# NELLYXINWEI 🛸
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
