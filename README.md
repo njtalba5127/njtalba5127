@@ -16,11 +16,8 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 [![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whoisnelly/)](https://www.linkedin.com/in/nellyxinwei)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nellyxinwei/)](https://www.instagram.com/nellyxinwei/)
 
-<hr/>
-
 <h3> 💻 Languages:
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 </h3>
 
-<hr/>
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
