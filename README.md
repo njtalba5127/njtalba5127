@@ -1,5 +1,5 @@
 <h1 float="left" >
-Nelly---@nellyXinwei 🛸</h1>
+Hi I'm nelly 👋 ---@nellyXinwei 🛸</h1>
 <p>
 みなさん、こんにちは、私はnellyです! |  Hallo! I'm nelly 👋! |
 Music • Code • Design | 🎹💻🎨
