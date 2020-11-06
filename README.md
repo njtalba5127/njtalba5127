@@ -1,12 +1,11 @@
-<h1 float="left" >
-Hi I'm nelly 👋 ---@nellyXinwei 🛸</h1>
+<h1 float="left" >nellyXinwei 🛸</h1>
 
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/BG1.gif" width="100%"/>
-<hr/>
-<p>
+<p float="right" >
 みなさん、こんにちは、私はnellyです! |  Hallo! I'm nelly 👋! |
 Music • Code • Design | 🎹💻🎨
 </p>
+<hr/>
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
 ### 🛸  About Me
