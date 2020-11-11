@@ -5,7 +5,7 @@
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/master/nellyicon.png" align="right" width="200px"/>
 
 ### 🛸  ABOUT ME
->𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design | 🎹💻🎨
+>𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design : for Fun | 🎹💻🎨
 >>My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects! I also love creating website designs and publicities such as posters and vector art. I love to engage myself into different cool organisations, projects, and people.😎
 
 <a href="#">
