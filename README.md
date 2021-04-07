@@ -4,9 +4,10 @@
 
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
   <img align="right" src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
-  
+
 # NELLYXINWEI 🛸  
 
+<div>
 <!-- START: NELLYXINWEI ICON -->
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/>
 <!-- END: NELLYXINWEI ICON -->
@@ -25,6 +26,7 @@
 [![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nellyxinwei/)](https://www.linkedin.com/in/nellyxinwei)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nellyxinwei/)](https://www.instagram.com/nellyxinwei/)
 <!-- END: SOCIAL LINKS  -->
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
+</div>
 
 <hr/> 
 
