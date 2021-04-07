@@ -37,3 +37,17 @@
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- END: 2ND ROW ////////// ////////// ////////// -->
 
+<hr/>
+
+<!-- START: 3RD ROW ////////// ////////// ////////// -->
+<p align="center">
+  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/top-played">
+</p>
+<!-- END: 3RD ROW ////////// ////////// ////////// -->
+ 
