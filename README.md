@@ -1,11 +1,10 @@
+  <img align="right" src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
+  
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/hero-images/BG3.gif" width="100%"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
-
-  <img position:"absolute" align="right" src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
-
 # NELLYXINWEI 🛸 
 
 <!-- START: NELLYXINWEI ICON -->
