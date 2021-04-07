@@ -1,6 +1,7 @@
-<div align="center">
+
+  <a align="center" href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
   <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
-</div>
+</a>
 
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
 <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/hero-images/BG3.gif" width="100%"/>
