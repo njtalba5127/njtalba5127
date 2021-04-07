@@ -5,11 +5,13 @@
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
 # NELLYXINWEI 🛸  
 
-  <img align="right" src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
+<div align="right">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
 
 <!-- START: NELLYXINWEI ICON -->
-<img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/>
+<img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/personal-icons/nellyicon.png"  width="200px" alt="nellyXinwei Icon"/>
 <!-- END: NELLYXINWEI ICON -->
+</div>
 
 <!-- START: ABOUT ME  -->
 ### 🛸  ABOUT ME
