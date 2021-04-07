@@ -3,9 +3,8 @@ d<!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
-  <a style="float:right" href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
-  </a>
+
+  <img align="right" src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
 
 # NELLYXINWEI 🛸 
 
