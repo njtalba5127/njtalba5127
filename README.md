@@ -25,11 +25,16 @@
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
 
 <hr/> 
+<p align="center" width="100%">
+  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
+  </a>
+</p>
 
 <!-- START: 2ND ROW ////////// ////////// ////////// -->
-<!-- START: NELLYXINWEI ICON -->
+<!-- START: GITHUB STATUS -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
-<!-- END: NELLYXINWEI ICON -->
+<!-- END: GITHUB STATUS -->
 
 
 <!-- START: PROGRAMMING LANGUAGES -->
@@ -37,17 +42,5 @@
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- END: 2ND ROW ////////// ////////// ////////// -->
 
-<hr/>
 
-<!-- START: 3RD ROW ////////// ////////// ////////// -->
-<p align="center">
-  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/top-played">
-</p>
-<!-- END: 3RD ROW ////////// ////////// ////////// -->
  
