@@ -25,11 +25,6 @@
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
 
 <hr/> 
-<p align="center" width="100%">
-  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
-  </a>
-</p>
 
 <!-- START: 2ND ROW ////////// ////////// ////////// -->
 <!-- START: GITHUB STATUS -->
@@ -42,5 +37,13 @@
 <!-- END: PROGRAMMING LANGUAGES -->
 <!-- END: 2ND ROW ////////// ////////// ////////// -->
 
+<hr/>
 
+<!-- START: 3RD ROW ////////// ////////// ////////// -->
+<p align="center" width="100%">
+  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing">
+  </a>
+</p>
+<!-- END: 3RD ROW ////////// ////////// ////////// -->
  
