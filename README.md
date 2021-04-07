@@ -27,7 +27,7 @@ d<!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
 <hr/> 
 
 <!-- START: 2ND ROW ////////// ////////// ////////// -->
-<div width="100%>
+<div width="100%">
 <!-- START: GITHUB STATUS -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
 <!-- END: GITHUB STATUS -->
