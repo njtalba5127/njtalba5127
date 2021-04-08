@@ -38,7 +38,7 @@
 <div align="center">
 <div width="500px" style="width:500px">
 <h3>About Me</h3>
-My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects! I also love creating website designs and publicities such as posters and vector art. I love to engage myself into different cool organisations, projects, and people.😎
+My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer <br/>  who's having fun learning code, and working on different cool web applications and projects! <br/> I also love creating website designs and publicities such as posters and vector art. <br/> I love to engage myself into different cool organisations, projects, and people.😎
 </div>
 </div>
 
