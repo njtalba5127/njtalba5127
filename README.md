@@ -3,7 +3,7 @@
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NELLYXINWEI ICON -->
 <div align="center">
-<img src="@/../assets/img/personal-icons/nellyicon.png" width="50px" alt="nellyXinwei Icon"/>
+<img src="@/../assets/img/personal-icons/nellyicon.png" width="80px" alt="nellyXinwei Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
