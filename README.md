@@ -1,8 +1,3 @@
-<!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<!-- <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/hero-images/BG3.gif" width="100%"/> -->
-<img src="@/../assets/img/hero-images/BG3.gif" width="100%"/>
-<!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
-
 <!-- START: NELLYXINWEI ICON -->
 <!-- <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/> -->
 
@@ -32,6 +27,11 @@
   </a>
 </div>
 <!-- END: MUSIC STATUS -->
+
+<!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
+<!-- <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/hero-images/BG3.gif" width="100%"/> -->
+<img src="@/../assets/img/hero-images/BG3.gif" width="100%"/>
+<!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 
 <!-- START: ABOUT ME  -->
