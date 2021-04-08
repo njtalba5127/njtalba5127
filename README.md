@@ -7,7 +7,7 @@
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
-<h1 align="center"><a href="">NELLYXINWEI🛸</a></h1>
+<h2 align="center"><a href="">NELLYXINWEI🛸</a></h2>
 
 <!-- START: SOCIAL LINKS  -->
 <div align="center" style="color:#6a737d">
