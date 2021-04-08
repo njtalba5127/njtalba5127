@@ -55,10 +55,11 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 </div>
 
 <br/>
-<br/>
 <!-- START: 3RD ROW ////////// ////////// ////////// -->
 
 <div width="100%" align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnellyXinwei&count_bg=%23FF00B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=.&edge_flat=true"/></a>
 </div>
+<br/>
+
 <!-- END: 3RD ROW ////////// ////////// ////////// -->
