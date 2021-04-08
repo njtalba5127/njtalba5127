@@ -16,10 +16,13 @@
 
 <br/>
 
-<h1 align="center">NELLYXINWEI</h1>
+<h1 align="center">NELLYXINWEI🛸</h1>
 
 <!-- START: SOCIAL LINKS  -->
 <div align="center">
+
+>𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design : for Fun | 🎹💻🎨
+
 
  [![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nellyxinwei/)](https://www.linkedin.com/in/nellyxinwei)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nellyxinwei/)](https://www.instagram.com/nellyxinwei/)
 
@@ -38,16 +41,14 @@
 
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
 
-<div>
-
 <!-- START: ABOUT ME  -->
 <div align="center">
 <h2>🛸  ABOUT ME</h2>
 
 
 </div>
->𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design : for Fun | 🎹💻🎨
->>My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects! I also love creating website designs and publicities such as posters and vector art. I love to engage myself into different cool organisations, projects, and people.😎
+
+<p align="center">My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects! I also love creating website designs and publicities such as posters and vector art. I love to engage myself into different cool organisations, projects, and people.😎</p>
 <!-- END: ABOUT ME  -->
 
 <!-- START: SOCIAL LINKS  -->
