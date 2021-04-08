@@ -1,8 +1,6 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
 <img src="@/../assets/img/hero-images/BG3.gif" width="100%"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
-
-
 <!-- START: NELLYXINWEI ICON -->
 
 <div align="center">
@@ -13,6 +11,14 @@
 <h1 align="center"><a href="https://github.com/nellyXinwei">NELLYXINWEI🛸</a></h1>
 
 <div align="center" style="color:#6a737d">
+
+<!-- START:VISITOR COUNTER -->
+<div width="100%" align="right">
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnellyXinwei&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=*&edge_flat=true"/> -->
+
+![](https://komarev.com/ghpvc/?username=nellyXinwei&label=*&color=grey&style=flat-square)
+</div>
+<!-- END:VISITOR COUNTER -->
 
 
 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design: for Fun | 🎹💻🎨
@@ -57,11 +63,5 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 <br/>
 <!-- START: 3RD ROW ////////// ////////// ////////// -->
-<!-- START:VISITOR COUNTER -->
-<div width="100%" align="left">
-<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnellyXinwei&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=*&edge_flat=true"/> -->
 
-![](https://komarev.com/ghpvc/?username=nellyXinwei&label=*&color=grey&style=flat-square)
-</div>
-<!-- END:VISITOR COUNTER -->
 <!-- END: 3RD ROW ////////// ////////// ////////// -->
