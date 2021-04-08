@@ -17,7 +17,7 @@
 <!-- START: SOCIAL LINKS  -->
 <div align="center" style="color:#6a737d">
 
-𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design : for Fun | 🎹💻🎨
+𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design: for Fun | 🎹💻🎨
 
 
  [![Github Badge](https://img.shields.io/badge/@nellyXinwei-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nellyXinwei)](https://github.com/nellyXinwei) [![Linkedin Badge](https://img.shields.io/badge/@nellyXinwei-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nellyxinwei/)](https://www.linkedin.com/in/nellyxinwei)  [![Facebook Badge](https://img.shields.io/badge/@nelson.albajr-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nelson.albajr)](https://www.facebook.com/nelson.albajr)  [![Instagram Badge](https://img.shields.io/badge/@nellyXinwei-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nellyxinwei/)](https://www.instagram.com/nellyxinwei/)
