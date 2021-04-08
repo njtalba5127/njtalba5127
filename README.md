@@ -3,11 +3,11 @@
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NELLYXINWEI ICON -->
 <div align="center">
-
+<img src="@/../assets/img/personal-icons/nellyicon.png" width="50px" alt="nellyXinwei Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
-<h1 align="center"><a href="https://github.com/nellyXinwei">NELLYXINWEI <img src="@/../assets/img/personal-icons/nellyicon.png" width="40px" alt="nellyXinwei Icon"/></a></h1>
+<h1 align="center"><a href="https://github.com/nellyXinwei">NELLYXINWEI🛸</a></h1>
 
 <!-- START: SOCIAL LINKS  -->
 <div align="center" style="color:#6a737d">
