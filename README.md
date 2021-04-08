@@ -37,6 +37,7 @@
 <!-- START: ABOUT ME  -->
 <div align="center">
 <div width="500px" style="width:500px">
+<h3>About Me</h3>
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects! I also love creating website designs and publicities such as posters and vector art. I love to engage myself into different cool organisations, projects, and people.😎
 </div>
 </div>
@@ -45,15 +46,18 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 <br>
 
-<!-- START: PROGRAMMING LANGUAGES -->
 <div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 <!-- START: GITHUB STATUS -->
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="nellyXinwei's Github Stats"/>
 <!-- END: GITHUB STATUS -->
-</div>
+
+<br/>
+
+<!-- START: PROGRAMMING LANGUAGES -->
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <!-- END: PROGRAMMING LANGUAGES -->
+</div>
 
 <!-- START: 3RD ROW ////////// ////////// ////////// -->
 <!-- END: 3RD ROW ////////// ////////// ////////// -->
