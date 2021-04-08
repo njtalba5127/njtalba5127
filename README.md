@@ -6,15 +6,11 @@
 <!-- START: NELLYXINWEI ICON -->
 <!-- <img src="https://github.com/nellyXinwei/nellyXinwei/blob/develop/assets/img/personal-icons/nellyicon.png" align="right" width="200px" alt="nellyXinwei Icon"/> -->
 
-<br/>
-<br/>
 
 <div align="center">
 <img src="@/../assets/img/personal-icons/nellyicon.png" width="150px" alt="nellyXinwei Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
-
-<br/>
 
 <h1 align="center">NELLYXINWEI🛸</h1>
 
