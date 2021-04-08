@@ -2,12 +2,12 @@
 <img src="@/../assets/img/hero-images/BG3.gif" width="100%"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NELLYXINWEI ICON -->
-<!-- <div align="center">
-<img src="@/../assets/img/personal-icons/nellyicon.png" width="150px" alt="nellyXinwei Icon"/>
-</div> -->
+<div align="center">
+
+</div>
 <!-- END: NELLYXINWEI ICON -->
 
-<h1 align="center"><a href="https://github.com/nellyXinwei">NELLYXINWEI🛸</a></h1>
+<h1 align="center"><a href="https://github.com/nellyXinwei">NELLYXINWEI <img src="@/../assets/img/personal-icons/nellyicon.png" width="40px" alt="nellyXinwei Icon"/></a></h1>
 
 <!-- START: SOCIAL LINKS  -->
 <div align="center" style="color:#6a737d">
