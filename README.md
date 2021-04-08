@@ -13,6 +13,9 @@
 <!-- START: SOCIAL LINKS  -->
 <div align="center" style="color:#6a737d">
 
+<div width="100%" align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnellyXinwei&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=*&edge_flat=true"/></a>
+</div>
 
 
 𝙉𝙚𝙡𝙨𝙤𝙣 𝙏. 𝘼𝙡𝙗𝙖 𝙅𝙧. 許鑫偉 | 𝙉𝙚𝙡𝙡𝙮 / Music • Code • Design: for Fun | 🎹💻🎨
