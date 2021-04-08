@@ -60,6 +60,6 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <br/>
 <!-- START: 3RD ROW ////////// ////////// ////////// -->
 <div align="center">
-  <img align="center" width="500px" src="https://pagespeed-insights.herokuapp.com?url=https://github.com/nellyXinwei" alt="nellyXinwei's Page Insights"/>
+  <img align="center" width="500px" src="https://pagespeed-insights.herokuapp.com/?url=https://github.com/nellyXinwei" alt="nellyXinwei's Page Insights"/>
 </div>
 <!-- END: 3RD ROW ////////// ////////// ////////// -->
