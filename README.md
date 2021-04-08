@@ -12,7 +12,7 @@
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
-<h1 align="center">NELLYXINWEI🛸</h1>
+<h3 align="center">NELLYXINWEI🛸</h3>
 
 <!-- START: SOCIAL LINKS  -->
 <div align="center">
