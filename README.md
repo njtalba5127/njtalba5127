@@ -37,7 +37,7 @@
 <!-- START: 1ST ROW ////////// ////////// ////////// -->
 
 <!-- START: ABOUT ME  -->
-<div align="center">
+<div align="center" style="max-width:700px">
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer who's having fun learning code, and working on different cool web applications and projects! I also love creating website designs and publicities such as posters and vector art. I love to engage myself into different cool organisations, projects, and people.😎
 </div>
 <!-- END: ABOUT ME  -->
