@@ -1,10 +1,10 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="@/../assets/img/hero-images/BG3.gif" width="100%"/>
+<img src="@/../assets/img/hero-images/BG3.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NELLYXINWEI ICON -->
 
 <div align="center">
-<img src="@/../assets/img/personal-icons/nellyicon.png" width="80px" alt="nellyXinwei Icon"/>
+<img src="@/../assets/img/personal-icons/nellyicon.png" width="80px" alt="nellyXinwei's Icon"/>
 </div>
 <!-- END: NELLYXINWEI ICON -->
 
@@ -59,5 +59,7 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 
 <br/>
 <!-- START: 3RD ROW ////////// ////////// ////////// -->
-
+<div align="center">
+  <img align="center" width="500px" src="https://pagespeed-insights.herokuapp.com?url=https://github.com/nellyXinwei" alt="nellyXinwei's Page Insights"/>
+</div>
 <!-- END: 3RD ROW ////////// ////////// ////////// -->
