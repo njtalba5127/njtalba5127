@@ -1,4 +1,5 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
+<!-- <img src="@/../assets/img/hero-images/BG3.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/> -->
 <img src="@/../assets/img/anime/rogervwhitebeard.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NELLYXINWEI ICON -->
