@@ -1,5 +1,5 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="@/../assets/img/hero-images/BG3.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
+<img src="https://64.media.tumblr.com/ad97beecfaab34201ca914668ee4528c/cf6473a63566e6bb-23/s540x810/a19b1e9b6eb19afb4e9ac0f73e131c28f3cf9fca.gifv" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 <!-- START: NELLYXINWEI ICON -->
 
