@@ -42,25 +42,19 @@
 My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o student web developer <br/>  who's having fun learning code, and working on different cool web applications and projects! <br/> I also love creating website designs and publicities such as posters and vector art. <br/> I love to engage myself into different cool organisations, projects, and people.😎
 </p>
 </div>
-
 <!-- END: ABOUT ME  -->
+<div align="center">
+<!-- START: PROGRAMMING LANGUAGES -->
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
+<!-- END: PROGRAMMING LANGUAGES -->
+<!-- START: GITHUB STATUS -->
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584,f77737" alt="nellyXinwei's Wakatime"/>
 
 <br>
-
-<div align="center">
-
-<!-- START: PROGRAMMING LANGUAGES -->
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<!-- END: PROGRAMMING LANGUAGES -->
-
-<!-- START: GITHUB STATUS -->
-<!-- 
-  <img align="center" width="500px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei" alt="nellyXinwei's Wakatime"/> -->
-
-
+<br>
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="nellyXinwei's Github Stats"/>
   <!-- <img align="center" width="500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&title_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=false&langs_count=10" alt="nellyXinwei's Top Languages"/> -->
 
-  <img align="center" width="550px" height="200px" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=333399,833ab4,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="nellyXinwei's Github Stats"/>
 <!-- END: GITHUB STATUS -->
 </div>
 
