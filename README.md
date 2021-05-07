@@ -50,10 +50,13 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <!-- START: GITHUB STATUS -->
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584,f77737" alt="nellyXinwei's Wakatime"/>
 
+
+
+  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&text_color=fff&bg_color=833ab4,c13584,c13584,f77737&title_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell" alt="nellyXinwei's Top Languages"/>
+
 <br>
 <br>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nellyXinwei&show_icons=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="nellyXinwei's Github Stats"/>
-  <!-- <img align="center" width="500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&title_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=false&langs_count=10" alt="nellyXinwei's Top Languages"/> -->
 
 <!-- END: GITHUB STATUS -->
 </div>
@@ -63,4 +66,4 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <div align="center">
   <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="nellyXinwei's Page Insights"/>
 </div>
-<!-- END: 3RD ROW ////////// ////////// ////////// -->
+<!-- END: 3RD ROW ////////// ////////// ////////// --
