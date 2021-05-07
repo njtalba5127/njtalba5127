@@ -50,9 +50,10 @@ My name is Nelson T. Alba Jr. You can call me nelly! I am currently an 18 y/o st
 <!-- START: GITHUB STATUS -->
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=333399,333399,333399,833ab4,c13584,c13584,f77737" alt="nellyXinwei's Wakatime"/>
 
+<br>
+<br>
 
-
-  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&text_color=fff&bg_color=833ab4,c13584,c13584,f77737&title_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell" alt="nellyXinwei's Top Languages"/>
+  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nellyXinwei&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=555599,833ab4,c13584,f77737,f77737" alt="nellyXinwei's Top Languages"/>
 
 <br>
 <br>
