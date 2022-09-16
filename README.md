@@ -1,15 +1,14 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
+<!-- <img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/> -->
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <div align="center" >  
 <!-- START:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
 https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-beef-6d3993be5d37.mp4
 <!-- END:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
-
-<!-- START:VISITOR COUNTER -->
+  
+ <!-- START:VISITOR COUNTER -->
 <div width="100%" align="right">
-
 ![](https://komarev.com/ghpvc/?username=nellyXinwei&label=*&color=grey&style=flat-square)
 </div>
 <!-- END:VISITOR COUNTER -->
