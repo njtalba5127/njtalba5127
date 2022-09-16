@@ -1,10 +1,11 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
+<!-- <img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/> -->
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <div align="center" >  
 <!-- START:VISITOR COUNTER -->
 <div width="100%" align="right">
+
 ![](https://komarev.com/ghpvc/?username=nellyXinwei&label=*&color=grey&style=flat-square)
 </div>
 <!-- END:VISITOR COUNTER -->
