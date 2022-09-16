@@ -1,17 +1,17 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<!-- <img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/> -->
+<img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <div align="center" >  
-<!-- START:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
-https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-beef-6d3993be5d37.mp4
-<!-- END:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
-  
- <!-- START:VISITOR COUNTER -->
+<!-- START:VISITOR COUNTER -->
 <div width="100%" align="right">
 ![](https://komarev.com/ghpvc/?username=nellyXinwei&label=*&color=grey&style=flat-square)
 </div>
 <!-- END:VISITOR COUNTER -->
+  
+<!-- START:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
+https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-beef-6d3993be5d37.mp4
+<!-- END:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
 
 <!-- START: PROGRAMMING LANGUAGES -->
 <img src="https://img.shields.io/badge/javascript%20-%23F6BA00.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330"/> <img src="https://img.shields.io/badge/python%20-%23FF8820.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/dart%20-%23FF5301.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23EA0C5F.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby%20-%23C0007A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java%20-%2382008F.svg?&style=for-the-badge&logo=starbucks&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%23002296.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
