@@ -34,6 +34,7 @@
   <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="nellyXinwei's Top Languages"/>
 
 <br>
+<br>
 
 <div align="center">
   <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="nellyXinwei's Page Insights"/>
