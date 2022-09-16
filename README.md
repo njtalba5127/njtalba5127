@@ -15,7 +15,7 @@
 <!-- # **根島ネヲ** -->
 
 <!-- START: PROGRAMMING LANGUAGES -->
-<img src="https://img.shields.io/badge/javascript%20-%23F6BA00.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330"/> <img src="https://img.shields.io/badge/python%20-%23FF8820.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/dart%20-%23FF5301.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23EA0C5F.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23C0007A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java-%2382008F.svg?&style=for-the-badge&logo=starbucks&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%23002296.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
+<img src="https://img.shields.io/badge/javascript%20-%23F6BA00.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330"/> <img src="https://img.shields.io/badge/python%20-%23FF8820.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/dart%20-%23FF5301.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23EA0C5F.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/ruby%20-%23C0007A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/java%20-%2382008F.svg?&style=for-the-badge&logo=starbucks&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%23002296.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
 <!-- END: PROGRAMMING LANGUAGES -->
 
 <!-- START: MUSIC STATUS -->
