@@ -27,11 +27,12 @@
 <!-- START: GITHUB STATUS -->
 <br>
 
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=82008f,82008f,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nellyXinwei&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=82008F,333399,333399,833ab4,c13584,c13584" alt="nellyXinwei's Wakatime"/>
 
 <br>
+<br>
 
-  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,82008f,82008f" alt="nellyXinwei's Top Languages"/>
+  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="nellyXinwei's Top Languages"/>
 
 <br>
 <br>
