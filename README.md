@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-
 <br>
 <br>
 
-  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,powershell,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="newojima's Top Languages"/>
+  <img align="center" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&hide_title=true&include_all_commits=true&langs_count=10&hide=python,html,css,shell&bg_color=833ab4,833ab4,c13584,f77737,f77737" alt="newojima's Top Languages"/>
 
 <br>
 <br>
