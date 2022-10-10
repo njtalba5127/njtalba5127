@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-
 <!-- START: GITHUB STATUS -->
 <br>
 
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=82008F,333399,333399,833ab4,c13584,c13584&hide=other,css,html,jsx,bash,xml,git%20config,makefile" alt="newojima's Wakatime"/>
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&hide_title=true&hide_border=true&text_color=fff&bg_color=82008F,333399,333399,833ab4,c13584,c13584&hide=other,css,html,jsx,bash,xml,git%20config,makefile,properties" alt="newojima's Wakatime"/>
 
 <br>
 <br>
