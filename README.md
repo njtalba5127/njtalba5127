@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-
 <!-- START:VISITOR COUNTER -->
 <div width="100%" align="right">
 
-><img src="https://komarev.com/ghpvc/?username=nellyXinwei&label=🛸&color=grey&style=for-the-badge&labelcolor=ffffff" alt="Alien Detector wee woo"/>
+<img src="https://komarev.com/ghpvc/?username=nellyXinwei&label=🛸&color=grey&style=for-the-badge&labelcolor=ffffff" alt="Alien Detector wee woo"/>
 
 </div>
 <!-- END:VISITOR COUNTER -->
