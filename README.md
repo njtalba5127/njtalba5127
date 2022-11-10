@@ -31,7 +31,6 @@ Sauce: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/12/Dopely
 <img src="https://img.shields.io/badge/c%23-%23AFC54D.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=BFD171" alt="c#"/>  
 
 
-
 <!-- END: PROGRAMMING LANGUAGES -->
 
 <!-- START: MUSIC STATUS -->
