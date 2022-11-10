@@ -45,8 +45,6 @@ Sauce: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/12/Dopely
 <img src="https://img.shields.io/badge/java%20-%23EDA100.svg?&style=for-the-badge&logo=starbucks&logoColor=white&labelColor=F1B433" alt="java"/> 
 <img src="https://img.shields.io/badge/c%23-%23AFC54D.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=BFD171" alt="c#"/>   -->
 
-
-
 <!-- END: PROGRAMMING LANGUAGES -->
 
 <!-- START: MUSIC STATUS -->
