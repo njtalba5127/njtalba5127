@@ -27,7 +27,7 @@ Sauce: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/12/Dopely
 <img src="https://img.shields.io/badge/dart%20-%238766AB.svg?&style=for-the-badge&logo=dart&logoColor=white&labelColor=6C5289" alt="dart"/> 
 <img src="https://img.shields.io/badge/php%20-%23B17ACD.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=8E62A4" alt="php"/> 
 <img src="https://img.shields.io/badge/ruby%20-%23D37F6F.svg?&style=for-the-badge&logo=ruby&logoColor=white&labelColor=A96659" alt="ruby"/> 
-<img src="https://img.shields.io/badge/java%20-%23EDA100.svg?&style=for-the-badge&logo=starbucks&logoColor=white&labelColor=BE8100" alt="java"/> 
+<img src="https://img.shields.io/badge/java%20-%23EDA100.svg?&style=for-the-badge&logo=openjdk&logoColor=white&labelColor=BE8100" alt="java"/> 
 <img src="https://img.shields.io/badge/c%23-%23AFC54D.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=8C9E3E" alt="c#"/>  
 <!-- END: PROGRAMMING LANGUAGES -->
 
