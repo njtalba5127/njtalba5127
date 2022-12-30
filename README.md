@@ -46,19 +46,19 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 
 <!-- START: GITHUB STATUS -->
 <!-- 色彩 Color Scheme:  #BB2649, #AD1052, #700750, #633075 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,AD1052,700750,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="Wakatimeワカタイム統計"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="Wakatimeワカタイム統計"/>
 
 <br>
 <br>
 
 <!-- 色彩 Color Scheme:  #633075, #364270, #4E92C2 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=10&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell&bg_color=4F265E,633075,364270,4E92C2" alt="最もよく使っている言語"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=10&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語"/>
 
 <br>
 <br>
 
 <!-- 色彩 Color Scheme:  #4E92C2, #FF5357 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357,FF5357" alt="Github統計"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
 
 <br>
 <br>
