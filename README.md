@@ -60,9 +60,11 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 <!-- 色彩 Color Scheme:  #4E92C2, #FF5357 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
 
+<img align="center" src="https://streak-stats.demolab.com?user=newojima&theme=dark&hide_border=true&locale=ja&ring=BB2649&stroke=222222&&sideLabels=BB2649&currStreakLabel=ffffff&border=BB2649&fire=FF5357&currStreakNum=ffffff&sideNums=FF5357&dates=ffffff" alt="Githubストリーク統計"/>
+
 <br>
 <br>
 
-  <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="nellyXinwei's Page Insights"/>
+  <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="Githubページの洞察"/>
 </div>
 <!-- END: GITHUB STATUS -->
