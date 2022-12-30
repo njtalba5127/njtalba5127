@@ -222,9 +222,7 @@
 					</g>
 				</g>
 			</svg>
-			<text class="guage-title" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
-				<tspan x="100px" dy="-6px">PWA</tspan>
-			</text>
+			<text class="guage-title" x="100px" y="160px" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">SEO</text>
 		</svg>
 		<svg width="604" height="76" x="200" y="250">
 			<g>
