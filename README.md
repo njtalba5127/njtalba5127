@@ -1,5 +1,5 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<!-- <img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/> -->
+<img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <div align="center" >  
@@ -45,17 +45,18 @@ Sauce: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/12/Dopely
 
 <!-- START: GITHUB STATUS -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=75C3BB,668AAB,668AAB,6667AB,8766AB,8766AB&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="newojima's Wakatime" style="margin-bottom:20px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=75C3BB,668AAB,668AAB,6667AB,8766AB,8766AB&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="Wakatimeワカタイム統計" style="margin-bottom:20px"/>
 
 <br>
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=10&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell&bg_color=8766AB,8766AB,B17ACD,D37F6F,EDA100" alt="newojima's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=10&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell&bg_color=8766AB,8766AB,B17ACD,D37F6F,EDA100" alt="最もよく使っている言語"/>
+
 
 <br>
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&bg_color=D37F6F,D37F6F,EDA100,AFC54D&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495" alt="newojima's Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&bg_color=D37F6F,D37F6F,EDA100,AFC54D&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true" alt="Github統計"/>
 
 <br>
 <br>
