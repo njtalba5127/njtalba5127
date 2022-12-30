@@ -17,18 +17,19 @@ https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-
 <!-- END:VISITOR COUNTER -->
 
 <!-- START: PROGRAMMING LANGUAGES -->
-<!-- Color Scheme: 
-75C3BB, 668AAB, 6667AB, 8766AB, B17ACD, D37F6F, EDA100
-Sauce: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/12/Dopely-Color-Palette-2022-color-scheme-of-the-year-%E2%80%93-3.jpg
+<!-- 色彩 Color Scheme: 
+#961E3A, #8A0D42, #5A0640, #4F265E, #2B355A, #3E759B, #CC4246, 
+#BB2649, #AD1052, #700750, #633075, #364270, #4E92C2, #FF5357
+Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 -->
 
-<img src="https://img.shields.io/badge/javascript%20-%23668AAB.svg?&style=for-the-badge&logo=javascript&logoColor=white&labelColor=526E89" alt="javascript"/> 
-<img src="https://img.shields.io/badge/python%20-%236667AB.svg?&style=for-the-badge&logo=python&logoColor=white&labelColor=525289" alt="python" /> 
-<img src="https://img.shields.io/badge/dart%20-%238766AB.svg?&style=for-the-badge&logo=dart&logoColor=white&labelColor=6C5289" alt="dart"/> 
-<img src="https://img.shields.io/badge/php%20-%23B17ACD.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=8E62A4" alt="php"/> 
-<img src="https://img.shields.io/badge/ruby%20-%23D37F6F.svg?&style=for-the-badge&logo=ruby&logoColor=white&labelColor=A96659" alt="ruby"/> 
-<img src="https://img.shields.io/badge/java%20-%23EDA100.svg?&style=for-the-badge&logo=openjdk&logoColor=white&labelColor=BE8100" alt="java"/> 
-<img src="https://img.shields.io/badge/c%23-%23AFC54D.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=8C9E3E" alt="c#"/>  
+<img src="https://img.shields.io/badge/javascript%20-%23BB2649.svg?&style=for-the-badge&logo=javascript&logoColor=white&labelColor=961E3A" alt="javascript"/> 
+<img src="https://img.shields.io/badge/python%20-%23AD1052.svg?&style=for-the-badge&logo=python&logoColor=white&labelColor=8A0D42" alt="python" /> 
+<img src="https://img.shields.io/badge/dart%20-%23700750.svg?&style=for-the-badge&logo=dart&logoColor=white&labelColor=5A0640" alt="dart"/> 
+<img src="https://img.shields.io/badge/php%20-%23633075.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=4F265E" alt="php"/> 
+<img src="https://img.shields.io/badge/ruby%20-%23364270.svg?&style=for-the-badge&logo=ruby&logoColor=white&labelColor=2B355A" alt="ruby"/> 
+<img src="https://img.shields.io/badge/java%20-%234E92C2.svg?&style=for-the-badge&logo=openjdk&logoColor=white&labelColor=3E759B" alt="java"/> 
+<img src="https://img.shields.io/badge/c%23-%23FF5357.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=CC4246" alt="c#"/>  
 <!-- END: PROGRAMMING LANGUAGES -->
 
 <br>
@@ -44,22 +45,27 @@ Sauce: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/12/Dopely
 <br>
 
 <!-- START: GITHUB STATUS -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=75C3BB,668AAB,668AAB,6667AB,8766AB,8766AB&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="newojima's Wakatime" style="margin-bottom:20px"/>
-
-<br>
-<br>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=10&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell&bg_color=8766AB,8766AB,B17ACD,D37F6F,EDA100" alt="newojima's Top Languages"/>
+<!-- 色彩 Color Scheme:  #BB2649, #AD1052, #700750, #633075 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="Wakatimeワカタイム統計"/>
 
 <br>
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&bg_color=D37F6F,D37F6F,EDA100,AFC54D&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495" alt="newojima's Github Stats"/>
+<!-- 色彩 Color Scheme:  #633075, #364270, #4E92C2 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=10&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語"/>
 
 <br>
 <br>
 
-  <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="nellyXinwei's Page Insights"/>
+<!-- 色彩 Color Scheme:  #4E92C2, #FF5357 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
+
+<img align="center" src="https://streak-stats.demolab.com?user=newojima&theme=dark&hide_border=true&locale=ja&ring=BB2649&stroke=222222&background=151515&sideLabels=BB2649&currStreakLabel=ffffff&border=BB2649&fire=FF5357&currStreakNum=ffffff&sideNums=FF5357&dates=ffffff" alt="Githubストリーク統計"/>
+
+<br>
+<br>
+
+  <img align="center" width="500px" src="@/../assets/img/page-insights.svg" alt="Githubページの洞察"/>
+  
 </div>
 <!-- END: GITHUB STATUS -->
