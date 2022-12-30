@@ -1,5 +1,5 @@
 <!-- START: HERO IMAGE GIF ////////// ////////// ////////// -->
-<img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/>
+<!-- <img src="@/../assets/img/gaming/ghost-of-tsushima.gif" width="100%"  alt="nellyXinwei's Hero Gif Image"/> -->
 <!-- END: HERO IMAGE GIF ////////// ////////// ////////// -->
 
 <div align="center" >  
