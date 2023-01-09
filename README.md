@@ -52,7 +52,7 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 <br>
 
 <!-- 色彩 Color Scheme:  #633075, #364270, #4E92C2 -->
-  <img align="center" src="https://newojima-grs-20220109.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語"/>
+  <img align="center" src="https://newojima-grs-20220109.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile,less,liquid,hack,scss&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語"/>
 
 <br>
 <br>
