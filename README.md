@@ -37,7 +37,7 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 
 <!-- START: MUSIC STATUS -->
   <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Music Status">
+  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Spotify現在再生中の音楽">
   </a>
 <!-- END: MUSIC STATUS -->
 
@@ -46,7 +46,7 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 
 <!-- START: GITHUB STATUS -->
 <!-- 色彩 Color Scheme:  #BB2649, #AD1052, #700750, #633075 -->
-<img align="center" src="https://newojima-grs-20220109.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text" alt="Wakatimeワカタイム統計"/>
+<img align="center" src="https://newojima-grs-20220109.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text,json,jsx" alt="Wakatimeワカタイム統計"/>
 
 <br>
 <br>
