@@ -36,8 +36,8 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 <br>
 
 <!-- START: MUSIC STATUS -->
-  <a href="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing?open">
-  <img src="https://nellyxinwei-spotify-readme-stats-2.vercel.app/api/now-playing" alt="Spotify現在再生中の音楽">
+  <a href="https://newojima-gsrs-20220114.vercel.app/api/now-playing?open">
+  <img src="https://newojima-gsrs-20220114.vercel.app/api/now-playing" alt="Spotify現在再生中の音楽">
   </a>
 <!-- END: MUSIC STATUS -->
 
