@@ -5,7 +5,7 @@
 <div align="center" >  
   
 <!-- START:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
-https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-beef-6d3993be5d37.mp4
+<https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-beef-6d3993be5d37.mp4>
 <!-- END:ワンピース 第1015話「ルフィはRED ROCを使う」 -->
 
 <!-- START:VISITOR COUNTER -->
@@ -17,17 +17,12 @@ https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-
 <!-- END:VISITOR COUNTER -->
 
 <!-- START: PROGRAMMING LANGUAGES -->
-<!-- 色彩 Color Scheme: 
-#961E3A, #8A0D42, #5A0640, #4F265E, #2B355A, #3E759B, #CC4246, 
+<!-- 色彩 Color Scheme:
+#961E3A, #8A0D42, #5A0640, #4F265E, #2B355A, #3E759B, #CC4246,
 #BB2649, #AD1052, #700750, #633075, #364270, #4E92C2, #FF5357
 Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 -->
 
-<img src="https://img.shields.io/badge/javascript%20-%23BB2649.svg?&style=for-the-badge&logo=javascript&logoColor=white&labelColor=961E3A" alt="javascript"/> 
-<img src="https://img.shields.io/badge/python%20-%23AD1052.svg?&style=for-the-badge&logo=python&logoColor=white&labelColor=8A0D42" alt="python" /> 
-<img src="https://img.shields.io/badge/dart%20-%23700750.svg?&style=for-the-badge&logo=dart&logoColor=white&labelColor=5A0640" alt="dart"/> 
-<img src="https://img.shields.io/badge/php%20-%23633075.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=4F265E" alt="php"/> 
-<img src="https://img.shields.io/badge/ruby%20-%23364270.svg?&style=for-the-badge&logo=ruby&logoColor=white&labelColor=2B355A" alt="ruby"/> 
 <img src="https://img.shields.io/badge/javascript%20-%23BB2649.svg?&style=for-the-badge&logo=javascript&logoColor=white&labelColor=961E3A" alt="javascript"/>
 <img src="https://img.shields.io/badge/python%20-%23AD1052.svg?&style=for-the-badge&logo=python&logoColor=white&labelColor=8A0D42" alt="python" />
 <img src="https://img.shields.io/badge/dart%20-%23700750.svg?&style=for-the-badge&logo=dart&logoColor=white&labelColor=5A0640" alt="dart"/>
