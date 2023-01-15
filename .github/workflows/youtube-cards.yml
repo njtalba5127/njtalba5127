@@ -1,8 +1,8 @@
-name: GitHub Readme YouTube Cards
+name: 「推し」の最近のユーチューブ動画
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: "0 9 * * *"
   workflow_dispatch:
   push:
     branches:
