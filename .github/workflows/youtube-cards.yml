@@ -15,7 +15,7 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           comment_tag_name: YOUTUBE-CARDS
           show_duration: true
-          max_videos: 6
+          # max_videos: 6
           output_type: html
-          lang: ja
-          card_width: 278
+          # lang: ja
+          # card_width: 278
