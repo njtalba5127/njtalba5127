@@ -82,8 +82,13 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 
   </summary>
 
-  <h2 align="center">🌸 最近のユーチューブ動画 🌸</h2>
-  <h4>Miko Ch. さくらみこ | @SakuraMiko</h4>
+  <h2 align="center">🌸「推し」の最近のユーチューブ動画 🌸</h2>
+  <h4>
+  ( ´ ∀ `)ノ～ 
+  <a href="https://www.youtube.com/@SakuraMiko">Miko Ch. さくらみこ | @SakuraMiko
+  </a>
+   ～('▽^人)
+  </h4>
 
   <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=7wt8_Cusk9E"><img src="https://ytcards.demolab.com/?id=7wt8_Cusk9E&title=%E3%80%90+%E3%81%A4%E3%81%90%E3%81%AE%E3%81%B2+%E5%BF%8C%E3%81%BF%E5%A4%9C%E3%81%AE%E5%96%B0%E9%9C%8A%E5%93%81%E5%BA%97+%E3%80%91%E5%AE%8C%E5%85%A8%E4%BA%88%E7%9F%A5%E3%82%8B%E3%81%A4%E3%81%90%E3%81%AE%E3%81%B2%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%80%81%E3%81%99%E3%82%8B%E3%81%AB%E3%81%87%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%E3%80%90%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%2F%E3%81%95%E3%81%8F%E3%82%89%E3%81%BF%E3%81%93%E3%80%91&lang=en&timestamp=1673704772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=8601" alt="【 つぐのひ 忌み夜の喰霊品店 】完全予知るつぐのひチャレンジ、するにぇ！！！！【ホロライブ/さくらみこ】" title="【 つぐのひ 忌み夜の喰霊品店 】完全予知るつぐのひチャレンジ、するにぇ！！！！【ホロライブ/さくらみこ】"></a>
