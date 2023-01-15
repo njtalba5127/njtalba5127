@@ -4,6 +4,9 @@ on:
     # Runs every hour, on the hour
     - cron: "0 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - master
 
 jobs:
   deploy:
@@ -16,7 +19,7 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           max_videos: 8
-          card_width: 187.5
+          card_width: 185
           show_duration: true
           output_only: false
           output_type: html
