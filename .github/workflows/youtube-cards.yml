@@ -12,7 +12,11 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          lang: ja
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          max_videos: 6
+          card_width: 278
           show_duration: true
+          output_only: false
           output_type: html
