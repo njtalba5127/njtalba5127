@@ -59,7 +59,7 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 <br>
 
 <!-- 色彩 Color Scheme:  #4E92C2, #FF5357 -->
-  <img align="center" src="https://newojima-grs-2023-0109.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
+  <img align="center" src="https://newojima-grs-20230109.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
 
 <br>
 
