@@ -39,7 +39,7 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
   <!-- <a href="https://newojima-gsrs-20220114.vercel.app/api/now-playing?open">
     <img src="https://newojima-gsrs-20220114.vercel.app/api/now-playing" alt="Spotify現在再生中の音楽">
   </a> -->
-  <img src="https://newojima-grss-20220114.vercel.app/api/spotify?border_color=transparent" alt="Spotify現在再生中の音楽" width="280px">
+  <img src="https://newojima-grss-20230114.vercel.app/api/spotify?border_color=transparent" alt="Spotify現在再生中の音楽" width="280px">
 <!-- END: MUSIC STATUS -->
 
 <br>
@@ -47,19 +47,19 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 
 <!-- START: GITHUB STATUS -->
 <!-- 色彩 Color Scheme:  #BB2649, #AD1052, #700750, #633075 -->
-<img align="center" src="https://newojima-grs-20220109.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text,json,jsx" alt="Wakatimeワカタイム統計"/>
+<img align="center" src="https://newojima-grs-20230109.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text,json,jsx" alt="Wakatimeワカタイム統計"/>
 
 <br>
 <br>
 
 <!-- 色彩 Color Scheme:  #633075, #364270, #4E92C2 -->
-  <img align="center" src="https://newojima-grs-20220109.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile,less,liquid,hack,scss&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語"/>
+  <img align="center" src="https://newojima-grs-20230109.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile,less,liquid,hack,scss&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語"/>
 
 <br>
 <br>
 
 <!-- 色彩 Color Scheme:  #4E92C2, #FF5357 -->
-  <img align="center" src="https://newojima-grs-20220109.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
+  <img align="center" src="https://newojima-grs-2023-0109.vercel.app/api?username=newojima&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計"/>
 
 <br>
 
