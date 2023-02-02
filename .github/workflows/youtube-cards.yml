@@ -1,7 +1,7 @@
 name: 「推し」の最近のユーチューブ動画
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch:
   push:
     branches:
