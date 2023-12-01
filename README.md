@@ -45,23 +45,23 @@ Sauce: https://www.webcreatorbox.com/inspiration/pantone-2023
 
 <!-- START: GITHUB STATUS -->
 <!-- 色彩 Color Scheme:  #BB2649, #AD1052, #700750, #633075 -->
-<img align="center" src="https://newojima-grs-20230109.vercel.app/api/wakatime?username=newojima&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text,json,jsx" alt="Wakatimeワカタイム統計" width="500px"/>
+<img align="center" src="https://newojima-grs-20230109.vercel.app/api/wakatime?username=njtalba5127&layout=compact&langs_count=10&locale=ja&hide_title=false&title_color=fff&hide_border=true&text_color=fff&bg_color=BB2649,BB2649,633075,633075&hide=other,css,html,bash,xml,git%20config,makefile,properties,yaml,markdown,text,json,jsx" alt="Wakatimeワカタイム統計" width="500px"/>
 
 <br>
 <br>
 
 <!-- 色彩 Color Scheme:  #633075, #364270, #4E92C2 -->
-  <img align="center" src="https://newojima-grs-20230109.vercel.app/api/top-langs?username=newojima&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile,less,liquid,hack,scss&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語" width="500px"/>
+  <img align="center" src="https://newojima-grs-20230109.vercel.app/api/top-langs?username=njtalba5127&layout=compact&text_color=fff&icon_color=fff&hide_border=true&&locale=ja&hide_title=false&title_color=fff&include_all_commits=true&card_width=445&langs_count=11&hide=c%23,powershell,shaderlab,hlsl,makefile,jupyter%20notebook,python,html,css,shell,batchfile,less,liquid,hack,scss&bg_color=4F265E,633075,4E92C2" alt="最もよく使っている言語" width="500px"/>
 
 <br>
 <br>
 
 <!-- 色彩 Color Scheme:  #4E92C2, #FF5357 -->
-  <img align="center" src="https://newojima-grs-20230109.vercel.app/api?username=newojima&rank_icon=github&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計" width="500px"/>
+  <img align="center" src="https://newojima-grs-20230109.vercel.app/api?username=njtalba5127&rank_icon=github&show_icons=true&&locale=ja&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&hide_title=false&count_private=true&include_all_commits=true&card_width=495&disable_animations=true&bg_color=4E92C2,4E92C2,FF5357" alt="Github統計" width="500px"/>
 
 <br>
 
-<img align="center" src="https://streak-stats.demolab.com?user=newojima&theme=dark&hide_border=true&locale=ja&ring=BB2649&stroke=222222&background=151515&sideLabels=BB2649&currStreakLabel=ffffff&border=BB2649&fire=FF5357&currStreakNum=ffffff&sideNums=FF5357&dates=ffffff" alt="Githubストリーク統計" width="500px"/>
+<img align="center" src="https://streak-stats.demolab.com?user=njtalba5127&theme=dark&hide_border=true&locale=ja&ring=BB2649&stroke=222222&background=151515&sideLabels=BB2649&currStreakLabel=ffffff&border=BB2649&fire=FF5357&currStreakNum=ffffff&sideNums=FF5357&dates=ffffff" alt="Githubストリーク統計" width="500px"/>
 
 <br>
 <br>
